@@ -40,7 +40,6 @@
 # mientras que `ServicioExtra` modela los servicios adicionales disponibles. 
 # La clase `Hotel` es responsable de gestionar todas las operaciones relacionadas con las reservas, 
 # como la creación de reservas, la adición de servicios adicionales y el cálculo del costo total de la reserva.
-#
 # Las decisiones de diseño se fundamentan en la necesidad de:
 # 
 # 1. **Modularidad**: Cada clase tiene una responsabilidad específica, lo que permite que el código sea más fácil de mantener y expandir.
@@ -63,3 +62,5 @@
 
 #La función menu y el bloque try-except en la función main permiten una interfaz simple para el usuario y manejan posibles errores de entrada.
 #Estos elementos hacen que el código sea modular, robusto y fácil de entender y mantener.
+
+#Se utiliza POO
