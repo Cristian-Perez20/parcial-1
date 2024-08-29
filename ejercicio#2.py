@@ -62,7 +62,7 @@ class Biblioteca:
 
 biblioteca = Biblioteca()
 
-libro1 = Libro("Alicia en el país de las maravillas", "Lewis Carroll")
+libro1 = Libro("Alicia en el país de las maravillas", "Lewis Carroll") #Agregamos los nombres
 libro2 = Libro("La ladrona de libros", "Markus Zusak")
 libro3 = Libro("1984", "George Orwell")
 
